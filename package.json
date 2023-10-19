@@ -1,0 +1,9 @@
+{
+  "name": "fake-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:math": "node --require ./setup-testing-lib.js ./src/math.test.js"
+  },
+  "license": "MIT"
+}
